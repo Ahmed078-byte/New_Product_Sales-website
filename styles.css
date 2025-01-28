@@ -1,0 +1,33 @@
+*,html {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #FFCA3A;
+    padding: 10px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px 15vw;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+.main {
+    margin: auto;
+    text-align: center;
+}
+.features {
+    text-align: left;
+}
+footer {
+    background-color: #FFCA3A;
+    padding: 10px;
+}
